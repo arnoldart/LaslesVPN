@@ -1,0 +1,30 @@
+.container {
+  /* background-color: red; */
+  margin: 4rem 8rem;
+}
+
+.heading {
+  width: 30rem;
+  font-size: 46px;
+  color: #0B132A;
+  margin-top: 2.5rem;
+}
+
+.home__hero-subtitle {
+  margin: 2rem 0;
+  line-height: 1.9rem;
+  color: #4F5665;
+  font-size: 16px;
+}
+
+.home__hero-button {
+  margin-top: 2rem;
+}
+
+.home__hero-img {
+  margin: 0 1rem;
+}
+
+.home__hero-fitur {
+  margin-left: 1rem;
+}

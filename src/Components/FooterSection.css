@@ -1,0 +1,8 @@
+.footer--product p{
+  margin: 1.5rem 0;
+}
+
+.border--footerIcon {
+  cursor: pointer;
+  margin: 0 1rem;
+}

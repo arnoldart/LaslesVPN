@@ -1,0 +1,10 @@
+.comment--card {
+  border: 1px solid #DDDDDD;
+  border-radius: .5rem;
+  transition: all .3s ease-out;
+}
+
+.comment--card:hover {
+  border: 1px solid #F53838;
+  transition: all .3s ease-out;
+}

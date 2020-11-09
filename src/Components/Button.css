@@ -1,0 +1,73 @@
+:root {
+  --primary: #fff;
+}
+
+.btn {
+  padding: 8px 20px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  white-space: nowrap;
+  background-color: var(--primary);
+}
+
+.btn--outline {
+  border: 1px solid #F53838;
+  transition: all 0.3s ease-out;
+}
+
+.btn--medium {
+  padding: .7rem 2rem;
+  font-size: .8rem;
+}
+
+.btn--large {
+  padding: .7rem 2rem;
+  font-size: .8rem;
+  background-color: #F53838;
+  color: white;
+  transition: all .3s ease-out;
+}
+.btn--large:hover {
+  background-color: white;
+  border: 1px solid #F53838;
+  color: #F53838;
+}
+
+.btn--wide {
+  padding: 17px 70px;
+  font-size: 20px;
+  background-color: #F53838;
+  color: white;
+  transition: all 0.3s ease-out;
+}
+
+.btn--wide:hover {
+  background-color: white;
+  border: 1px solid #F53838;
+  color: #F53838;
+}
+
+.btn--medium:hover,
+.btn--mobile:hover {
+  transition: all 0.3s ease-out;
+  background: #F53855;
+  color: white;
+}
+
+.border--large {
+  border-radius: 5rem;
+}
+
+.border--med {
+  border-radius: .5rem;
+}
+
+.btn--shadow {
+  -webkit-box-shadow: 0px 10px 48px -9px #F53838; 
+  box-shadow: 0px 10px 48px -9px #F53838;
+}
+
+.red {
+  color: #F53855;
+}

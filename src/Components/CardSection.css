@@ -1,0 +1,15 @@
+.card {
+  border: 1px solid #DDDDDD;
+  padding: 1rem 3rem;
+  border-radius: 1rem;
+  transition: all .3s ease-out;
+}
+
+.card:hover {
+  border: 1px solid #F53838;
+  transition: all .3s ease-out;
+}
+
+.buttonCard {
+  margin: 1rem 0;
+}
